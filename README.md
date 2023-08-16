@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ParthPandhare
-- 👀 I’m interested in chess, badminton, acrylic painting, physics, and robotics! I also love to use fusion to 3d model random things to print out :)
+- 👀 I’m interested in chess, computer science, embedded systems, physics, and robotics!
 - 🌱 I’m currently studying electrical engineering at UCLA Samueli School of Engineering and Applied Science.
 - 💞️ I’m looking to collaborate on any projects!
 
